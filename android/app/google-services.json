@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "312555631057",
+    "project_id": "flutter-ddd-architecture",
+    "storage_bucket": "flutter-ddd-architecture.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312555631057:android:ba305651295990c936b0f0",
+        "android_client_info": {
+          "package_name": "com.example.ddd_pattern_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312555631057-rb28uqvqmiotlkiblblqm50j8ram21c4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ddd_pattern_flutter",
+            "certificate_hash": "f705f4676d68542fc4ce11bfd621320b9b103d18"
+          }
+        },
+        {
+          "client_id": "312555631057-3rgn6ttu6glhab78fnqlob1q56v67pmn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhwI_eXcBaQ89hRCwGdVaYUmNcF0dV9iM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "312555631057-3rgn6ttu6glhab78fnqlob1q56v67pmn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "312555631057-87aivucg3tj432r117fqke5d9pn59ape.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tribox.wesTradingAdmin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312555631057:android:46cbc49eb11be04236b0f0",
+        "android_client_info": {
+          "package_name": "com.tribox.wes_trading_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312555631057-vdavhf7nq41t93mk74eelusonnma11em.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tribox.wes_trading_admin",
+            "certificate_hash": "f705f4676d68542fc4ce11bfd621320b9b103d18"
+          }
+        },
+        {
+          "client_id": "312555631057-3rgn6ttu6glhab78fnqlob1q56v67pmn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhwI_eXcBaQ89hRCwGdVaYUmNcF0dV9iM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "312555631057-3rgn6ttu6glhab78fnqlob1q56v67pmn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "312555631057-87aivucg3tj432r117fqke5d9pn59ape.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tribox.wesTradingAdmin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
